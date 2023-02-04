@@ -222,12 +222,13 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--type-product-color);
-    }
+}
 
 .project-card{
         background-color: var(--project-card-bg-color);
         border: 0.5px solid #F4F4FD;
-    }
+}
+
 .project-card-link{
         font-family: inherit;
         font-weight: 500;
