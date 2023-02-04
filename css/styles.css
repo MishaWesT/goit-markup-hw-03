@@ -32,6 +32,29 @@ body{
         background-color: var(--primary-bg-color);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+margin: 0;
+padding-top: 8px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+
 .list{
         list-style: none;
 }
